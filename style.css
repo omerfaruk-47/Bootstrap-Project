@@ -1,0 +1,67 @@
+.resimSlider{
+
+    height: 600px;
+}
+body{
+    padding-top:50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.logo{
+    margin-left: 40px;
+    font-weight: bold;
+    border-bottom: 2px solid wheat;
+    border-radius: 3px;
+    font-size: 25px;
+}
+
+.logoSpan{
+    color: rgb(235, 170, 86);
+    
+}
+
+
+
+.About{
+    background-color: #f2f2f2;
+}
+
+.linie{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.icons1{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.icons2{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.teamCard:hover{
+
+    opacity: 0.8;
+
+
+}
+
+.galeria{
+    background-color: #f2f2f2;
+}
+
+.figure:hover{
+    opacity: 0.8;
+}
